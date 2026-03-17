@@ -121,11 +121,9 @@ make clean  # Xóa file đã build
 
 ## 📌 Quy Trình Fork và Nộp Bài
 
-### 6. Mẫu hướng dẫn ngắn gửi cho sinh viên
+### Huong dan nop bai DSALab
 
 ```text
-Huong dan nop bai DSALab
-
 1. Fork repo goc:
    https://github.com/CocAgent/DSALab
 
